@@ -92,7 +92,7 @@ This tool significantly reduces the overhead of maintaining build scripts and ve
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiryuumaru&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiryuumaru&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 ## 🤝 Connect With Me
 
