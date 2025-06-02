@@ -86,6 +86,14 @@ This tool significantly reduces the overhead of maintaining build scripts and ve
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiryuumaru&layout=compact&theme=tokyonight)
 
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/Kiryuumaru/Kiryuumaru/blob/output/github-contribution-grid-snake.svg)
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiryuumaru&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clynt-neiko-rupinta-961909180/)
